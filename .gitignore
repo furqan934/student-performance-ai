@@ -29,3 +29,9 @@ Thumbs.db
 
 # Environment variables
 .env
+.env.local
+
+
+# unkown 
+.UNKNOWN.egg-info/
+__init__.py
