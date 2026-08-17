@@ -1,1 +1,7 @@
 # contain all the list of the project require libraries and packages 
+torch
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
